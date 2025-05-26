@@ -1,13 +1,13 @@
 # Configs
 
-title: "Jekyll Profile"
-name: "A Free Job Market Profile in Jekyll"
+title: "Kristin Marie Vrona"
+name: "Professional Portfolio for Kristin Vrona"
 email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "ECON-691/Jekyll-for-Job-Market"
+url: "https://kristin-vrona.github.io"
+baseurl: "/Kristin-Vrona-Profile"
+repository: "kristin-vrona/Kristin-Vrona-Profile"
 header:
-  image: /assets/images/banner-husky.jpg
+  image: /assets/images/Vrona Kristin.jpeg
 
 include:
   - _pages
@@ -37,12 +37,12 @@ minimal_mistakes_skin: "contrast"
 
 # settings for author profile
 author:
-  name   : "Mission III"
-  avatar : "/assets/images/banner-husky.jpg"
-  bio    : "My name is Mission III, and I am the official Huskie mascot at Northern Illinois University."
-  location: "DeKalb, Illinois"
+  name   : "Kristin Vrona"
+  avatar : "/assets/images/Vrona Kristin.jpeg"
+  bio    : "My name is Kristin Vrona, I hold a doctorate in Economics. I have experience in consulting, policy analysis, and logistics."
+  location: "Sycamore, Illinois"
   github : 
-  linkedin: "school/northern-illinois-university" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
+  linkedin: "kristin-vrona" 
   email  : 
 
 
