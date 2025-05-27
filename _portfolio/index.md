@@ -8,6 +8,11 @@ permalink: /portfolio/index.html
 
 # Research
 
+
+<h2 id="publications">Publications</h2>
+
+Vrona, K. M. (2025). *An Analysis of Mental Health and Workplace Absenteeism* [Doctoral dissertation, Northern Illinois University]. ProQuest Dissertations & Theses Global.
+
   
 <h2 id="working-papers">Working Papers</h2> 
   
