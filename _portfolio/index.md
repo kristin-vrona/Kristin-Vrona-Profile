@@ -17,8 +17,7 @@ Keywords: mental health, labor economics, productivity, health
 
 
 K. Vrona, "The Role of Individual Health Patterns and Endogenous Employment on Absenteeism"
+[Download File]({{ site.baseurl }}/assets/docs/Econometric_Paper-1.pdf)
 
-**Abstract:** This paper examines the question often present in behavioral models of health - the bias that can persist across estimates when unobserved factors drive behavior. In the context of this study, individuals may select into employment non-randomly. For instance, ability to balance health issues while being productive. When these possibilities are ignored, the magnitude of the effect that mental illness has on absenteeism is likely underestimated. A classic Heckman selection model, supported by strong exclusion restrictions, suggests the presence of endogenous sample selection that is validated by a semi-parametric copula-based selection model that accommodates the discrete and overdispersed nature of absence data.
 
-**Keywords:** mental health, labor economics, sample selection, employment, Heckman Procedure, copulas.
 
