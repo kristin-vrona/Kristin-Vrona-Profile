@@ -1,12 +1,12 @@
 ---
 title: " "
 header:
-  image: /assets/images/niubanner.png
+  image: /assets/images/genbanner (1).png
 ---
 
 # Welcome​
 
-<img src="https://github.com/kristin-vrona/Kristin-Vrona-Portfolio/blob/master/assets/images/Envrion headshot.jpeg?raw=true" width="35%" hspace="40" align="right">
+<img src="https://github.com/kristin-vrona/Kristin-Vrona-Profile/blob/master/assets/images/Envrion headshot.jpeg?raw=true" width="35%" hspace="40" align="right">
 
 My name is Kristin Vrona. I recently earned my Ph.D. in Economics from Northern Illinois University, where I also completed my M.A. in Economics. My doctorate specializations include labor economics and applied econometrics.  
 
