@@ -13,7 +13,7 @@ permalink: /portfolio/index.html
   
 **Job Market Paper:**  K. Vrona, "Labor Supply Dynamics Among Employed Workers with Mental Illness"
 
-**Abstract:** In this article, the impact of diagnosed mental illness on workplace productivity is examined,
+**Abstract:** In this paper, the impact of diagnosed mental illness on workplace productivity is examined,
 focusing on variations between levels of psychological distress and perceived physical health. I also
 explore the influence that comorbidity of chronic physical and mental illnesses imposes on absenteeism
 using the Medical Expenditure Panel Survey (MEPS). For both genders, I find that the impact of mental
@@ -21,7 +21,7 @@ illness is eventually overshadowed by distress-related symptomatology, highlight
 of undiagnosed mental illness in productivity losses.
 
 **Keywords:** mental health, labor economics, productivity, health
-[Download File]({{ site.baseurl }}/assets/docs/MissionJMP.pdf)
+[Download File]({{ site.baseurl }}/assets/docs/Vrona,K_JMP.pdf)
 
 
 K. Vrona, "The Role of Individual Health Patterns and Endogenous Employment on Absenteeism"
