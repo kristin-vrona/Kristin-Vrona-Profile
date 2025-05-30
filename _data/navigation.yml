@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Curriculum Vitae"
-    url: /assets/docs/Vrona,K_CVweb.pdf
+  - title: "Resume/CV"
+    url: /resume/
   - title: "Research"
     url: /portfolio/
   - title: "Teaching"
@@ -23,3 +23,15 @@ portfolio:
         url: /portfolio/#publications
       - title: "Working Papers"
         url: /portfolio/#working-papers
+
+
+# sidebar for Resume/CV
+resume:
+  - title: "Resume/CV"
+    children:
+     - title: "Resume"
+        url: /Resume/#Resume
+      - title: "Curriculum Vita"
+        url: /Resume/#Curriculum Vita
+
+        
