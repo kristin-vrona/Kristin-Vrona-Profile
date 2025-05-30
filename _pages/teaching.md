@@ -6,7 +6,7 @@ classes: wide
 permalink: /teaching/
 ---
 
-# Undergraduate Level
+## Undergraduate Level
 
 ### Northern Illinois University 
 
@@ -14,7 +14,7 @@ permalink: /teaching/
 - ECON 261: Inroductory Macroeconomics (summer 2022, summer 2021, spring 2021, fall 2020)  
     - Foundational course covering aggregate economic processes such as consumption, investment, government expenditures, banking, inflation, and employment.
 
-# Graduate Level 
+## Graduate Level 
 
 ### Northern Illinois University 
 
