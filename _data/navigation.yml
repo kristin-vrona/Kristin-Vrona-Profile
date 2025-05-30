@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Resume/CV"
+  - title: "Resume"
     url: /resume/
   - title: "Research"
     url: /portfolio/
@@ -31,7 +31,7 @@ resume:
     children:
      - title: "Resume"
         url: /Resume/#Resume
-      - title: "Curriculum Vita"
-        url: /Resume/#Curriculum Vita
+      - title: "CV"
+        url: /Resume/#CV
 
         
