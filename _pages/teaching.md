@@ -6,18 +6,27 @@ classes: wide
 permalink: /teaching/
 ---
 
-*These courses are fictional and were created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
-
 # Undergraduate Level
 
-### Northern Illinois University (Official Mascot)
-- SPRT 101: Introduction to Mascot Sciences (fall 2023, spring 2024)  
-    - Foundational course covering basic principles of crowd engagement, mascot safety, and the history of collegiate mascots.  
-- CHEER 250: Advanced Tail-Wagging and Paw-Shaking Techniques (spring 2024)  
-    - Hands-on (paws-on) workshop focusing on non-verbal communication methods for maximizing school spirit at sporting events.  
+### Northern Illinois University 
+
+* Instructor of Record *
+- ECON 261: Inroductory Macroeconomics (summer 2022, summer 2021, spring 2021, fall 2020)  
+    - Foundational course covering aggregate economic processes such as consumption, investment, government expenditures, banking, inflation, and employment.
+
+# Graduate Level 
+
+### Northern Illinois University 
+
+* Instructional Teaching Assistant *
+- ECON 760: Microeconomic Analysis I
+    - This course covers the fundamental aspects of microeconomic theory that are required to read contemporary economics journals and to create new models to explain the behavior of firms, households, and markets, and to evaluate economic policies.
+    - Led weekly recitation sessions presenting examples 
 
 ### Guest Lectures
- - MKTG 315: Sports Marketing and Branding (fall 2023)  
-    - Guest lecture on "The Mascot's Role in University Brand Identity"  
-- PSYC 220: Social Psychology (spring 2024)  
-    - Special seminar on "The Psychology of Human-Mascot Interactions in Large Crowds"   
+ - ECON 700: Labor Economics I (spring 2022, fall 2021)  
+    - Guest lectured on the cohesion of health and labor economics.
+- ECON 750: Public Sector Economics (fall 2020)  
+    - Special seminar on model building using foundational public economic theory.
+- ECON 589: Seminar in Health Economics (fall 2018)
+    - Lectured on mental health and labor market outcomes.
