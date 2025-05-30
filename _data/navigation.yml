@@ -2,14 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Resume"
-    url: /resume/
   - title: "Research"
     url: /portfolio/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Links"
-    url: /links/
   - title: "Contact"
     url: /contact/
   # - title: "Blog"
@@ -25,13 +19,5 @@ portfolio:
         url: /portfolio/#working-papers
 
 
-# sidebar for Resume/CV
-resume:
-  - title: "Resume/CV"
-    children:
-     - title: "Resume"
-        url: /Resume/#Resume
-      - title: "CV"
-        url: /Resume/#CV
 
         
