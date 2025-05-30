@@ -8,11 +8,6 @@ permalink: /portfolio/index.html
 
 # Research
 
-
-<h2 id="publications">Publications</h2>
-
-Vrona, K. M. (In Press). *An Analysis of Mental Health and Workplace Absenteeism* [Doctoral dissertation, Northern Illinois University]. ProQuest Dissertations & Theses Global.
-
   
 <h2 id="working-papers">Working Papers</h2> 
   
@@ -25,4 +20,9 @@ K. Vrona, "The Role of Individual Health Patterns and Endogenous Employment on A
 [Download File]({{ site.baseurl }}/assets/docs/Econometric_Paper-2.pdf)
 
 
+
+
+<h2 id="publications">Publications</h2>
+
+Vrona, K. (In Press). *An Analysis of Mental Health and Workplace Absenteeism*. [Doctoral dissertation, Northern Illinois University]. ProQuest Dissertations & Theses Global.
 
