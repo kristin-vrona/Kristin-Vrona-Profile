@@ -2,7 +2,7 @@
 
 title: "Kristin M. Vrona"
 name:  "Professional Portfolio for Kristin Vrona"
-email: "kristin.vrona@gmail.com"
+email: kristin.vrona@gmail.com
 url: "https://kristin-vrona.github.io"
 baseurl: "/Kristin-Vrona-Profile"
 repository: "kristin-vrona/Kristin-Vrona-Profile"
@@ -38,7 +38,7 @@ minimal_mistakes_skin: "contrast"
 
 # settings for author profile
 author: 
-  name   : "Kristin Vrona"
+  name   : "Kristin M. Vrona"
   avatar : "/assets/images/Vrona Kristin.jpg"
   bio    : "I am a recent PhD grad in Economics from NIU in the fields of applied econometrics and labor economics."
   location: "Sycamore, Illinois"
