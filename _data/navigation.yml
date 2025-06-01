@@ -6,8 +6,12 @@ main:
   - url: /assets/docs/Vrona,K_CVweb.pdf
   - title: "Research"
     url: /portfolio/
-  - title: "Contact"
-    url: /contact/
+ # - title: "Teaching"
+ #   url: /teaching/
+#  - title: "Links"
+#    url: /links/
+#  - title: "Contact"
+ #   url: /contact/
   # - title: "Blog"
   #   url: /blog/
 
