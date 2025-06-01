@@ -1,0 +1,25 @@
+# the masthead
+main:
+  - title: "Home"
+    url: /
+  - title: "Curriculum Vitae"
+    url: /assets/docs/Vrona,K_CV_MARCH2025.pdf
+  - title: "Teaching"
+    url: /teaching/
+    - title: "Research"
+    url: /portfolio/
+  - title: "Contact"
+    url: /contact/
+  - title: "Links"
+    url: /links/
+
+  # - title: "Blog"
+  #   url: /blog/
+
+# sidebar for portfolio
+portfolio:
+  - title: "Research"
+    children:
+    
+      - title: "Working Papers"
+       url: /portfolio/#working-papers
